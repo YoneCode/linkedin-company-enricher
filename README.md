@@ -2,6 +2,12 @@
 
 > Domains in. Full LinkedIn company profiles out.
 
+<p align="center">
+  <a href="https://apify.com/yonecode/linkedin-company-enricher"><img alt="Apify Actor" src="https://apify.com/actor-badge?actor=yonecode/linkedin-company-enricher"></a>
+  <a href="docs/PRICING.md"><img alt="Pricing" src="https://img.shields.io/badge/pricing-pay--per--result-blue"></a>
+  <a href="LICENSE"><img alt="Docs license" src="https://img.shields.io/badge/docs%20license-MIT-green"></a>
+</p>
+
 A managed Apify Actor for B2B teams that need to turn raw company domains into structured LinkedIn data — at scale, on demand, and without running scraping infrastructure.
 
 - **Live on the Apify Store:** https://apify.com/yonecode/linkedin-company-enricher
@@ -92,6 +98,7 @@ More integration patterns are in [`docs/INTEGRATIONS.md`](docs/INTEGRATIONS.md).
 
 ## Documentation
 
+- [`TUTORIAL.md`](TUTORIAL.md) — step-by-step beginner guide, from sign-up to first run
 - [`docs/PRICING.md`](docs/PRICING.md) — pricing model, what is and is not billed, sample run costs
 - [`docs/COMPARISON.md`](docs/COMPARISON.md) — feature and price comparison vs other Apify Store actors
 - [`docs/USE_CASES.md`](docs/USE_CASES.md) — typical workflows for sales, recruiting, sourcing, and analytics teams
