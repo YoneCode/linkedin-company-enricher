@@ -4,7 +4,8 @@
 
 A managed Apify Actor for B2B teams that need to turn raw company domains into structured LinkedIn data — at scale, on demand, and without running scraping infrastructure.
 
-**Live on the Apify Store:** https://apify.com/yonecode/linkedin-company-enricher
+- **Live on the Apify Store:** https://apify.com/yonecode/linkedin-company-enricher
+- **Documentation source:** https://github.com/YoneCode/linkedin-company-enricher
 
 This repository hosts the public documentation, comparison data, and integration examples for the Actor. The source code is proprietary and runs on the Apify platform; this repo is for evaluation, integration planning, and reference.
 
@@ -94,7 +95,7 @@ More integration patterns are in [`docs/INTEGRATIONS.md`](docs/INTEGRATIONS.md).
 - [`docs/PRICING.md`](docs/PRICING.md) — pricing model, what is and is not billed, sample run costs
 - [`docs/COMPARISON.md`](docs/COMPARISON.md) — feature and price comparison vs other Apify Store actors
 - [`docs/USE_CASES.md`](docs/USE_CASES.md) — typical workflows for sales, recruiting, sourcing, and analytics teams
-- [`docs/INTEGRATIONS.md`](docs/INTEGRATIONS.md) — n8n, Make, Zapier, and warehouse pipelines
+- [`docs/INTEGRATIONS.md`](docs/INTEGRATIONS.md) — n8n, Make, Zapier, Google Sheets, and warehouse pipelines
 - [`docs/FAQ.md`](docs/FAQ.md) — cookies, accuracy, rate limits, success rates
 - [`examples/`](examples/) — sample inputs and outputs
 
@@ -112,7 +113,7 @@ More integration patterns are in [`docs/INTEGRATIONS.md`](docs/INTEGRATIONS.md).
 
 ## Support
 
-- Issues and feature requests via the Apify Store page
+- Issues and feature requests: [open a GitHub issue](https://github.com/YoneCode/linkedin-company-enricher/issues) or use the Apify Store page
 - Email: [YoneCodee@proton.me](mailto:YoneCodee@proton.me)
 
 ## License
