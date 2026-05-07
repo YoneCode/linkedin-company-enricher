@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Don't accidentally commit local secrets if anyone tests with a cookie here
+*.cookie
+*.token
+.env
+.env.*
+secrets/

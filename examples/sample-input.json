@@ -1,0 +1,15 @@
+{
+  "domains": [
+    "shopify.com",
+    "stripe.com",
+    "airbnb.com",
+    "figma.com",
+    "vercel.com"
+  ],
+  "include_company_details": true,
+  "include_contact_info": true,
+  "extract_socials": false,
+  "country_filter": [],
+  "max_concurrent": 5,
+  "linkedin_cookies": "PASTE_YOUR_li_at_VALUE_HERE_FOR_DEEP_MODE"
+}
